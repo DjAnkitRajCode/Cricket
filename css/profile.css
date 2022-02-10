@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #232323;
+}
+.detail{
+    width: 100%;
+    float: left;
+    margin-top: -8px;
+    background-color: white;
+    border-top: 2px solid black;
+}
+.name{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: steelblue;
+    word-spacing: 2px;
+    height: 70px;
+    background-image: linear-gradient(#ffbd45,white,#00c608);
+}
+.outline1{
+    width: 100%;
+    margin: 25px auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.cornerLeft{
+    width: 100%;
+    height: 70px;
+    border-top-left-radius: 10px;
+}
+.cornerRight{
+    width: 100%;
+    height: 70px;
+    border-top-right-radius: 10px;
+}
+.profile{
+    background-image: url(photo/window10.jpg);
+    background-size: cover;
+    background-position: center;
+}
+td,th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+th{
+/*    background-color: #00aeff;*/
+    background-color: steelblue;
+    color: white
+}
+td{
+    text-align: center;
+}
+.flag{
+    background-image: url(photo/flag10.png);
+    background-size: cover;
+    background-position: center;
+}
+.achive{
+    border-left: 4px solid steelblue;
+    border-bottom: 2px solid gray; 
+    widows: 300px;
+}

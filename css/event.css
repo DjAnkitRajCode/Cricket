@@ -1,0 +1,8 @@
+.poster1{
+    width: 100%;
+    background-image: url(photo/wp1809746.jpg);
+    height: 400px;
+    background-position:bottom;
+    background-size: cover;
+    
+}
